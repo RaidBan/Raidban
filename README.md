@@ -11,9 +11,6 @@ This script ls current directory and copy list files in your flash.
 - push your flash
 - ✨Magic ✨
 
-## Features
-
-- no
 
 ## Installation
 
