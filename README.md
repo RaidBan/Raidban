@@ -17,12 +17,4 @@ Install from github
 cd 'your directory'
 git clone https://github.com/RaidBan/Raidban.git
 ```
-or from my site
-
-```sh
-cd 'your directory'
-wget https://raidban.ddns.net/download/asd.sh
-```
-
-
 
