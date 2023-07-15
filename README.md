@@ -28,8 +28,5 @@ cd 'your directory'
 wget https://raidban.ddns.net/download/asd.sh
 ```
 
-## Support
-[#Support](https://raidban.ddns.net)
-
 
 
